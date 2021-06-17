@@ -1,2 +1,2 @@
 # Personal-Website
-This website is my first project in html.
+This website is my first project using html.
